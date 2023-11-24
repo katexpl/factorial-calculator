@@ -1,4 +1,4 @@
-[DEMO](https://factorial-calculator-seqd-n7jw6g2ag-katexpl.vercel.app/).
+[DEMO](https://factorial-calculator-topaz.vercel.app/).
 # Factorial Calculator
 Welcome to the Factorial Calculator app, a React and Redux-based application that empowers users to input a number and calculates its factorial. This simple yet effective calculator keeps track of your calculation history, making it a handy tool for factorial computations.
 
